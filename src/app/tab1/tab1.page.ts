@@ -144,8 +144,7 @@ export class Tab1Page {
     }
 
   
-  
-  
+
     }
      /* set a key/value
   setValue(key: string, value: any) {
